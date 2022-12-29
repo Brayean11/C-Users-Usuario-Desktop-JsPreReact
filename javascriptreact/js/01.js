@@ -2,7 +2,7 @@
 let cliente = "Juan"
 let precioDescuento = 220 // camelCase
 
-// Re asignar
+// Re asignar valores
 cliente = 20
 cliente = true
 
