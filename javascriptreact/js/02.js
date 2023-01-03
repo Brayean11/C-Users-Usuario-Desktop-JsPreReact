@@ -1,5 +1,5 @@
 // Variables - const
-const cliente = "Juan"
+const cliente = "Brayean"
 const precioDescuento = 220 
 
 // No se puede re asignar
