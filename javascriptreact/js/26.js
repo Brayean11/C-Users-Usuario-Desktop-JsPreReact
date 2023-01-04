@@ -7,9 +7,9 @@ formulario.addEventListener('submit', e => {
     const nombre = document.querySelector('.nombre').value
     const password = document.querySelector('.password').value
     
-    if(nombre === '' || password === '') {
+    nombre === '' || password === '' ? 
         console.log('Todos los campos son obligatorios')
-    } else {
-        console.log('Todo bien, enviando...')
-    }
+    
+        : console.log('Todo bien, enviando...')
+    
 })

@@ -10,4 +10,7 @@ function textoDeFuncion() {
 
 console.log( producto + " $" + precio + " Dolares, Marca: " + marca )
 
+//backstick alt 96 Buenisimo
+
 console.log(`${producto} $${precio} Dolares, Marca: ${marca}, ${textoDeFuncion()}`)
+

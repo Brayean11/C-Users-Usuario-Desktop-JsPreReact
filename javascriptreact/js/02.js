@@ -3,10 +3,11 @@ const cliente = "Brayean"
 const precioDescuento = 220 
 
 // No se puede re asignar
-cliente = "Pablo"
+cliente = "Brayean"
 
 // No pueden iniciar sin valor
-// const precio
+ //const precio
+
 
 
 

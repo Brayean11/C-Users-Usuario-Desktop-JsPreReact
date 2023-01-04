@@ -8,7 +8,7 @@ heading.addEventListener('click', () =>  {
 
 
 const enlaces = document.querySelectorAll('.navegacion a')
-enlaces.forEach( enlace => {
+enlaces.forEach( enlace => { // para iterar en cada unos de ellos uso un foreach
     enlace.addEventListener('click', () => {
         console.log('Diste click en un enlace')
     })

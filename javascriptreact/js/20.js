@@ -15,3 +15,10 @@ saldo > pagar ?
     tarjeta ? 
         console.log('Puedes pagar con tarjeta') : 
         console.log('No no puedes pagar')
+
+        // my example
+        /*autenticado ? console.log("ennhorabuena") : console.log("vaya")*/
+
+
+
+
